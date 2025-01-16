@@ -1,4 +1,4 @@
-![Header Image](https://raw.githubusercontent.com/Akshat-0204/Akshat-0204/refs/heads/main/Akshat-Soni.png)
+![Header Image](https://github.com/Akshat-0204/Akshat-0204/blob/main/Akshat%20Soni.png)
 
 # 💫 About Me:
 🔭 I am a MERN Stack Developer , Studying Artificial Intelligence and Machine Learning at MITS Gwalior <br>👯 I’m looking to collaborate on Web Development projects<br>⚡Hobbies :  Sketching , Video games, Travelling and Sports <br>💬Contact me : [soniakshat0204@gmail.com](mailto:soniakshat0204@gmail.com)<br>
